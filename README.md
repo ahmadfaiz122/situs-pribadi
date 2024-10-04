@@ -26,6 +26,5 @@ Jika Anda memiliki saran, pertanyaan, atau ingin berdiskusi lebih lanjut tentang
 ## Tautan
 
 - **[Situs Pribadi Saya]([https://link-situs-pribadi.com](https://ahmadfaiz122.github.io/situs-pribadi/))**: Jelajahi lebih lanjut tentang CTF dan bug hunting.
-- **Profil Media Sosial**: [Twitter](https://twitter.com/kamu), [LinkedIn](https://linkedin.com/in/kamu)
 
 Terima kasih telah mengunjungi, semoga bermanfaat dan dapat menginspirasi!
