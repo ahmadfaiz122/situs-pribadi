@@ -1,5 +1,4 @@
 # situs-pribadi
-# [Nama Situs Pribadi Kamu]
 
 Selamat datang di repositori ini! Situs pribadi saya adalah tempat di mana saya berbagi pengalaman dan hasil dari perjalanan saya dalam:
 
